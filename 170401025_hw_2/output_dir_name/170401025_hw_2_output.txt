@@ -1,0 +1,2 @@
+Medyan değeri:45
+ortalama degeri:44.0
